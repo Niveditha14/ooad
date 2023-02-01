@@ -1,0 +1,37 @@
+#ifndef MEMBERSHIP_STATUS_H
+#define MEMBERSHIP_STATUS_H
+
+#include <string>
+
+/**
+  * class membership_status
+  * 
+  */
+
+class membership_status
+{
+public:
+
+  // Constructors/Destructors
+  //  
+
+
+  /**
+   * Empty Constructor
+   */
+  membership_status ();
+
+  /**
+   * Empty Destructor
+   */
+  virtual ~membership_status ();
+
+  // Static Public attributes
+  //  
+
+  // Public attributes
+  //  
+
+
+  // Public attribute accessor methods
+  //  
