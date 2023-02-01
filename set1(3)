@@ -1,0 +1,25 @@
+#include "exam_details.h"
+
+// Constructors/Destructors
+//  
+
+exam_details::exam_details () {
+initAttributes();
+}
+
+exam_details::~exam_details () { }
+
+//  
+// Methods
+//  
+
+
+// Accessor methods
+//  
+
+
+// Other methods
+//  
+
+void exam_details::initAttributes () {
+}
