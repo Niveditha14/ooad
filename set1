@@ -1,0 +1,43 @@
+#include "applicants.h"
+
+// Constructors/Destructors
+//  
+
+applicants::applicants () {
+}
+
+applicants::~applicants () { }
+
+//  
+// Methods
+//  
+
+
+// Accessor methods
+//  
+
+
+// Other methods
+//  
+
+#include "passportadmin.h"
+
+// Constructors/Destructors
+//  
+
+passportadmin::passportadmin () {
+}
+
+passportadmin::~passportadmin () { }
+
+//  
+// Methods
+//  
+
+
+// Accessor methods
+//  
+
+
+// Other methods
+//  
