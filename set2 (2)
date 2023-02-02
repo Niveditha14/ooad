@@ -1,0 +1,29 @@
+/**
+ * Class verifier
+ */
+public class verifier {
+
+  //
+  // Fields
+  //
+
+  
+  //
+  // Constructors
+  //
+  public verifier () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  //
+  // Other methods
+  //
+
+}
