@@ -1,0 +1,29 @@
+**
+ * Class exam_details
+ */
+public class exam_details {
+
+  //
+  // Fields
+  //
+
+  
+  //
+  // Constructors
+  //
+  public exam_details () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  //
+  // Other methods
+  //
+
+}
