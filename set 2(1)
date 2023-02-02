@@ -1,0 +1,129 @@
+/**
+ * Class student1
+ */
+public class student1 {
+
+  //
+  // Fields
+  //
+
+  private String name;
+  private int age;
+  private int marks;
+  
+  //
+  // Constructors
+  //
+  public student1 () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  /**
+   * Set the value of name
+   * @param newVar the new value of name
+   */
+  private void setName (String newVar) {
+    name = newVar;
+  }
+
+  /**
+   * Get the value of name
+   * @return the value of name
+   */
+  private String getName () {
+    return name;
+  }
+
+  /**
+   * Set the value of age
+   * @param newVar the new value of age
+   */
+  private void setAge (int newVar) {
+    age = newVar;
+  }
+
+  /**
+   * Get the value of age
+   * @return the value of age
+   */
+  private int getAge () {
+    return age;
+  }
+
+  /**
+   * Set the value of marks
+   * @param newVar the new value of marks
+   */
+  private void setMarks (int newVar) {
+    marks = newVar;
+  }
+
+  /**
+   * Get the value of marks
+   * @return the value of marks
+   */
+  private int getMarks () {
+    return marks;
+  }
+
+  //
+  // Other methods
+  //
+
+  /**
+   */
+  public void login()
+  {
+  }
+
+
+  /**
+   */
+  public void view()
+  {
+  }
+
+
+  /**
+   */
+  public void check()
+  {
+  }
+
+
+  /**
+   */
+  public void select()
+  {
+  }
+
+
+  /**
+   */
+  public void enter()
+  {
+  }
+
+
+  /**
+   */
+  public void register()
+  {
+  }
+
+
+  /**
+   */
+  public void logout()
+  {
+  }
+
+
+}
