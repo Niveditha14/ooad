@@ -1,0 +1,28 @@
+import java.util.*;
+
+
+/**
+ * Class offer_order
+ */
+public class offer_order {
+
+  //
+  // Fields
+  //
+
+  private int orderno;
+  private String buyername;
+  private String description_of_goods;
+  private double price;
+  private String condition_of_sale;
+  private String payment_terms;
+  private String status_order;
+  
+  //
+  // Constructors
+  //
+  public offer_order () { };
+  
+  //
+  // Methods
+  //
