@@ -1,0 +1,148 @@
+import java.util.*;
+
+
+/**
+ * Class exporterinfo
+ */
+public class exporterinfo {
+
+  //
+  // Fields
+  //
+
+  private String exportername;
+  private int ioc_no;
+  private String reg_no;
+  private String address;
+  private int contact_no;
+  private String email_id;
+  
+  //
+  // Constructors
+  //
+  public exporterinfo () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  /**
+   * Set the value of exportername
+   * @param newVar the new value of exportername
+   */
+  public void setExportername (String newVar) {
+    exportername = newVar;
+  }
+
+  /**
+   * Get the value of exportername
+   * @return the value of exportername
+   */
+  public String getExportername () {
+    return exportername;
+  }
+
+  /**
+   * Set the value of ioc_no
+   * @param newVar the new value of ioc_no
+   */
+  public void setIoc_no (int newVar) {
+    ioc_no = newVar;
+  }
+
+  /**
+   * Get the value of ioc_no
+   * @return the value of ioc_no
+   */
+  public int getIoc_no () {
+    return ioc_no;
+  }
+
+  /**
+   * Set the value of reg_no
+   * @param newVar the new value of reg_no
+   */
+  public void setReg_no (String newVar) {
+    reg_no = newVar;
+  }
+
+  /**
+   * Get the value of reg_no
+   * @return the value of reg_no
+   */
+  public String getReg_no () {
+    return reg_no;
+  }
+
+  /**
+   * Set the value of address
+   * @param newVar the new value of address
+   */
+  public void setAddress (String newVar) {
+    address = newVar;
+  }
+
+  /**
+   * Get the value of address
+   * @return the value of address
+   */
+  public String getAddress () {
+    return address;
+  }
+
+  /**
+   * Set the value of contact_no
+   * @param newVar the new value of contact_no
+   */
+  public void setContact_no (int newVar) {
+    contact_no = newVar;
+  }
+
+  /**
+   * Get the value of contact_no
+   * @return the value of contact_no
+   */
+  public int getContact_no () {
+    return contact_no;
+  }
+
+  /**
+   * Set the value of email_id
+   * @param newVar the new value of email_id
+   */
+  public void setEmail_id (String newVar) {
+    email_id = newVar;
+  }
+
+  /**
+   * Get the value of email_id
+   * @return the value of email_id
+   */
+  public String getEmail_id () {
+    return email_id;
+  }
+
+  //
+  // Other methods
+  //
+
+  /**
+   */
+  public void get_iecno()
+  {
+  }
+
+
+  /**
+   */
+  public void getreg()
+  {
+  }
+
+
+}
