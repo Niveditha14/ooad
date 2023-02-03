@@ -1,0 +1,110 @@
+
+
+/**
+ * Class HR
+ */
+public class HR {
+
+  //
+  // Fields
+  //
+
+  private stng username;
+  private char designation;
+  private in phoneno;
+  
+  //
+  // Constructors
+  //
+  public HR () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  /**
+   * Set the value of username
+   * @param newVar the new value of username
+   */
+  public void setUsername (stng newVar) {
+    username = newVar;
+  }
+
+  /**
+   * Get the value of username
+   * @return the value of username
+   */
+  public stng getUsername () {
+    return username;
+  }
+
+  /**
+   * Set the value of designation
+   * @param newVar the new value of designation
+   */
+  public void setDesignation (char newVar) {
+    designation = newVar;
+  }
+
+  /**
+   * Get the value of designation
+   * @return the value of designation
+   */
+  public char getDesignation () {
+    return designation;
+  }
+
+  /**
+   * Set the value of phoneno
+   * @param newVar the new value of phoneno
+   */
+  public void setPhoneno (in newVar) {
+    phoneno = newVar;
+  }
+
+  /**
+   * Get the value of phoneno
+   * @return the value of phoneno
+   */
+  public in getPhoneno () {
+    return phoneno;
+  }
+
+  //
+  // Other methods
+  //
+
+  /**
+   */
+  public void send_interview_details()
+  {
+  }
+
+
+  /**
+   */
+  public void result()
+  {
+  }
+
+
+  /**
+   */
+  public void select_talented_applications()
+  {
+  }
+
+
+  /**
+   */
+  public void send_appointment_letter()
+  {
+  }
+
+
+}
