@@ -1,0 +1,29 @@
+/**
+ * Class student
+ */
+public class student {
+
+  //
+  // Fields
+  //
+
+  
+  //
+  // Constructors
+  //
+  public student () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  //
+  // Other methods
+  //
+
+}
