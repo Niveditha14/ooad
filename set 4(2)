@@ -1,0 +1,29 @@
+/**
+ * Class administrator
+ */
+public class administrator {
+
+  //
+  // Fields
+  //
+
+  
+  //
+  // Constructors
+  //
+  public administrator () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  //
+  // Other methods
+  //
+
+}
